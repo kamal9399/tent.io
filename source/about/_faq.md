@@ -1,19 +1,19 @@
 ### What is Tent?
 
-Tent is a protocol for open, decentralized social networking. Tent users share content with
+Tent is a protocol for open,decentralized social networking. Tent users share content with
 apps and each other. Anyone can run a Tent server, or write an app or alternative server implementation
 that uses the Tent protocol. Users can take their content and relationships with
-them when they change or move servers. Tent supports extensible data types so developers can create new kinds of interaction.
+them when they changes or move servers. Tent supports extensiable data types so developers can create new kinds of interaction.
 
-Tent is for sharing with others and seeing what others have shared with you. You can ask to follow other users and other users can follow you. Because you control your own Tent server, it is also a good place to store things you do not
-want to share with others, a sort of personal data vault. It can also be used as a secure site login replacement so you don't need passwords when accessing other sites on the web.
+Tent is for sharing with others and seeing what others have shared with you. You can ask to follow other users and each users can follow you. Because you control your own Tent server, it is also a good place to store things you don't
+want to share with others, a sort of personal data. It can also be used as a secure site login replacement so you don't need passwords when accessing other sites on the website.
 
 
 ### Why is Tent decentralized?
 
-Decentralized services are resilient. If one part breaks or is turned off the other parts continue to operate normally. The Internet is decentralized. That's why the whole Internet doesn't shut down when one site or server is having problems. Important systems should be decentralized. The Internet itself, and the most important services on it, like the World Wide Web and email, are all decentralized systems based on open protocols. So is Tent. Most existing social sites could be reimplemented using Tent.
+Decentralized services are resilient. If one part breaks or is turned off the other parts continue to operate normally. The Internet is decentralized. That's why the whole Internet doesn't shut down when one site or server is having problems. Important systems should be decentralized. The Internet itself, and the most important services on it, like the World Wide Web(www) and email, are all decentralized systems based on open protocols. So is Tent. Most existing social sites(ex-instagram,facebook etc....) could be reimplemented using Tent.
 
-Decentralized services put users in control. Companies and products do not last forever. If a company changes its terms, shuts down, is acquired, discontinues a product, no problem -- users can take their data and services with them and set up somewhere else -- on their own server or at another service provider. Decentralized, protocol-based systems offer users a choice of providers and developers the opportunity to innovate, since developers deal directly with users, not a platform or company.
+Decentralized services put users in control. Companies and products do not last forever. If a company changes its terms, shuts down, is acquired, discontinues a product, no problem --> users can take their data and services with them and set up somewhere else -- on their own server or at another service provider. Decentralized, protocol-based systems offer users a choice of providers and developers the opportunity to innovate, since developers deal directly with users, not a platform or company.
 
 Distributed services using protocols have another big advantage: users on a network separated from the regular internet can still use them. Some countries and Internet Service Providers block access to services, users, and content that clash with the adminstration's politics. Totalitarian regimes have blocked centralized social networks, but distributed services inside the country, like that nation's web often continue to operate. Tent servers can be accessed over a wireless mesh network and run as a Tor hidden service, unlike centralized social networks. 
 
